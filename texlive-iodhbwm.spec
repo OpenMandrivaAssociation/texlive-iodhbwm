@@ -3,7 +3,7 @@ Version:	57773
 Release:	2
 Summary:	Unofficial template of the DHBW Mannheim
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iodhbwm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/iodhbwm
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iodhbwm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iodhbwm.doc.r%{version}.tar.xz
